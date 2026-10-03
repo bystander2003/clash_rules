@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,mitce.net
 DOMAIN-SUFFIX,xn--4gqu8tcnnope.com
 DOMAIN-SUFFIX,stc-spare1.com
 DOMAIN-SUFFIX,stc-spare2.com
-DOMAIN-SUFFIX,dianping.men
+#DOMAIN-SUFFIX,dianping.men
 #Torrent Site
 DOMAIN-SUFFIX,skrbtnv.top
 DOMAIN-SUFFIX,skrbtso.top
