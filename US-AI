@@ -1,8 +1,8 @@
-  - DOMAIN-SUFFIX,muse.ai,PROXY
-  - DOMAIN,agent.meta.ai,PROXY
-  - DOMAIN-SUFFIX,meta.ai,PROXY
-  - DOMAIN-SUFFIX,meta.com,PROXY
-  - DOMAIN-SUFFIX,facebook.com,PROXY
-  - DOMAIN-SUFFIX,fbcdn.net,PROXY
-  - DOMAIN-SUFFIX,link.com,PROXY
-  - IP-ASN,32934,PROXY,no-resolve
+DOMAIN-SUFFIX,muse.ai,PROXY
+DOMAIN,agent.meta.ai,PROXY
+DOMAIN-SUFFIX,meta.ai,PROXY
+DOMAIN-SUFFIX,meta.com,PROXY
+DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+DOMAIN-SUFFIX,link.com,PROXY
+IP-ASN,32934,PROXY,no-resolve
