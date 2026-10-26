@@ -1,0 +1,12 @@
+#muse
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,link.com
+#whatsapp
+#DOMAIN-SUFFIX,whatsapp.com
+#DOMAIN-SUFFIX,whatsapp.net
+#meta-asn
+#IP-ASN,32934,no-resolve
